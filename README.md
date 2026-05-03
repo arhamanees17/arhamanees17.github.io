@@ -1,4 +1,4 @@
-# Cyberpunk Internship Portfolio
+# Internship Portfolio
 
 Modern single-page portfolio for **Muhammad Arham Anees**, built for internship applications with a dark cyberpunk aesthetic and a featured Time Table project case study.
 
